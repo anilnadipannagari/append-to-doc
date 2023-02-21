@@ -1,0 +1,11 @@
+.valid{
+position: inherit;
+
+}
+*{
+    background-color:skyblue;
+    color: white;
+}
+li{
+    padding-bottom: 10px;
+}
